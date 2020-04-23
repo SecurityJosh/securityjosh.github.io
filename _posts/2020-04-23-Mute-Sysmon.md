@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mute Sysmon - Silence Sysmon via event manifest tampering
-tags: [sysmon, redteam, powershell, sigma]
+tags: [sysmon, redteam, blueteam, powershell, sigma]
 ---
 
 GitHub repository: [https://github.com/SecurityJosh/MuteSysmon](https://github.com/SecurityJosh/MuteSysmon)
