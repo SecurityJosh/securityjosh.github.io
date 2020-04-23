@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://securityjosh.github.io/"
+url: "https://securityjosh.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
