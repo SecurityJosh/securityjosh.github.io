@@ -6,6 +6,9 @@ tags: [sysmon, redteam, blueteam, powershell, sigma]
 
 GitHub repository: [https://github.com/SecurityJosh/MuteSysmon](https://github.com/SecurityJosh/MuteSysmon)
 
+### Update 14/07/2020
+* To clarify, this technique requires administrative permsissions.
+* Twitter user [Ring3 API](https://twitter.com/rimpq) has kindly provided a more precise Sigma rule for the PowerShell activity detection, which can be found [here](https://twitter.com/rimpq/status/1283057892019638275).
 # Background
 [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon) is a free tool from Microsoft Sysinternals which logs system activity to the Windows Event Log. It is configurable via rulesets which are written in XML. When combined with a SIEM, it can be used as a flexible endpoint detection system to discover malicious or otherwise anomalous behaviour on a system.  
 
